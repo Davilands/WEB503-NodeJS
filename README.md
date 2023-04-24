@@ -6,7 +6,7 @@ Chuột phải -> Mở bằng Terminal:
 <img src="https://raw.githubusercontent.com/dangtranhuu/images/main/web503-nodejs/open-terminal.png" ><br>
 
 Gõ lần lượt các lệnh sau và nhấn enter (mỗi lệnh enter một lần):
-
+<img src="https://github.com/dangtranhuu/images/blob/main/web503-nodejs/instal-lib.png?raw=true" > <br/>
 `npm init` <br>
 `npm install --save express`<br>
 `npm install --save nodemon`<br>
